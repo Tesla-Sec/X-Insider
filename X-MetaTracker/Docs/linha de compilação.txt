@@ -1,0 +1,1 @@
+gcc -o X-MetaTracker.exe X-MetaTracker.c -I "C:\Programas instalados\curl\include" -L "C:\Programas instalados\curl\lib" -lcurl
